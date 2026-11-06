@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Downloaded datasets and generated outputs (rebuild using scripts/)
+/data/
+
+# Local tool configuration and credentials
+/.agents/
+/.codex/
+/.aws/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store

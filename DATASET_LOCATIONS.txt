@@ -1,0 +1,20 @@
+Dataset locations used by this project
+======================================
+
+Dataset: Free Music Archive (FMA) Small audio dataset
+Source / project page: https://github.com/mdeff/fma
+Download archive in this repository: data/raw/fma_small.zip
+Extracted dataset directory: data/raw/fma_small/
+Contents: MP3 audio files arranged in numbered subdirectories.
+Dataset notes and checksums: data/raw/fma_small/README.txt and data/raw/fma_small/checksums
+
+Dataset: Free Music Archive (FMA) metadata
+Source / project page: https://github.com/mdeff/fma
+Download archive in this repository: data/raw/fma_metadata.zip
+Extracted dataset directory: data/raw/fma_metadata/
+Contents include tracks.csv, genres.csv, features.csv, echonest.csv, and raw_* metadata CSV files.
+Dataset notes and checksums: data/raw/fma_metadata/README.txt and data/raw/fma_metadata/checksums
+
+Repository-relative paths above are relative to the project root. These files are
+present in the current checkout; the repository documentation does not record
+the original command or exact external mirror used to download them.
